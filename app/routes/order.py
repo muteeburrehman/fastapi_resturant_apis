@@ -5,8 +5,8 @@ from sqlalchemy import func
 from app.models import Order, MenuItem
 from app.schemas import OrderCreate, OrderOut
 from app.database import get_db
-from datetime import datetime, date
-import os
+from datetime import date
+
 
 router = APIRouter()
 

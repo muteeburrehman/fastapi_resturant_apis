@@ -3,7 +3,7 @@ from sqlalchemy.orm import Session
 from datetime import datetime, date
 from app import models, schemas
 from app.database import get_db
-import os
+
 
 router = APIRouter()
 
