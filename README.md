@@ -9,7 +9,6 @@ A simple FastAPI-based backend for managing restaurant menu items and customer o
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/muteeburrehman/fastapi_resturant_apis.git
-cd restaurant-api
 ```
 
 ### 2. Create `.env` file
